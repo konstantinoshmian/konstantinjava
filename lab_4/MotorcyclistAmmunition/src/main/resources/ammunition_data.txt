@@ -1,0 +1,6 @@
+Helmet; Shoei; 450.00; 1.45; ECE-22.06; Integral
+Jacket; Alpinestars; 320.00; 2.10; Leather; true
+Helmet; AGV; -100.00; 1.35; DOT; Modular
+Gloves; Dainese; 80.00; 0.25; false; Carbon
+InvalidType; UnknownBrand; 50.00; 0.50; Base
+Jacket; Shark; 250.00; abc; Textile; false

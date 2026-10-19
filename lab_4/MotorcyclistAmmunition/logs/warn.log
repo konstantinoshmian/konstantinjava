@@ -1,0 +1,6 @@
+2026-10-19 13:27:52.916 [main] WARN  com.motorcycle.parser.AmmunitionDataParser - error line ignored: Helmet; AGV; -100.00; 1.35; DOT; Modular | reason: negative price or weight
+2026-10-19 13:27:52.922 [main] WARN  com.motorcycle.parser.AmmunitionDataParser - error line ignored: InvalidType; UnknownBrand; 50.00; 0.50; Base | reason: unknown ammunition type: InvalidType
+2026-10-19 13:27:52.922 [main] WARN  com.motorcycle.parser.AmmunitionDataParser - error line ignored: Jacket; Shark; 250.00; abc; Textile; false | reason: number format error
+2026-10-19 13:33:28.876 [main] WARN  com.motorcycle.parser.AmmunitionDataParser - error line ignored: Helmet; AGV; -100.00; 1.35; DOT; Modular | reason: negative price or weight
+2026-10-19 13:33:28.879 [main] WARN  com.motorcycle.parser.AmmunitionDataParser - error line ignored: InvalidType; UnknownBrand; 50.00; 0.50; Base | reason: unknown ammunition type: InvalidType
+2026-10-19 13:33:28.880 [main] WARN  com.motorcycle.parser.AmmunitionDataParser - error line ignored: Jacket; Shark; 250.00; abc; Textile; false | reason: number format error
